@@ -1,0 +1,24 @@
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\bin\Debug\C_sharp_final_project.exe.config
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\bin\Debug\C_sharp_final_project.exe
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\bin\Debug\C_sharp_final_project.pdb
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Form1.resources
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.exe
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.pdb
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Form2.resources
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Form3.resources
+C:\Users\lenovo\Desktop\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Form4.resources
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\bin\Debug\C_sharp_final_project.exe.config
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.exe
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.pdb
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\bin\Debug\C_sharp_final_project.exe
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\bin\Debug\C_sharp_final_project.pdb
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.csprojResolveAssemblyReference.cache
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Form1.resources
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Form2.resources
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Form3.resources
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Form4.resources
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.Properties.Resources.resources
+E:\8TH SEMISTER FINAL\C#\code\C_sharp_final_project\C_sharp_final_project\obj\Debug\C_sharp_final_project.csproj.GenerateResource.Cache
